@@ -1,4 +1,4 @@
-# WSL - Ubuntu setup
+# WSL - Ubuntu terminal setup
 
 1. Install zsh: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 2. Install oh-my-zsh: https://ohmyz.sh/
