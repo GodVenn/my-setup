@@ -1,4 +1,4 @@
-# ~\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
+# ~\Documents\PowerShell\Profile.ps1
 
 $answer = Read-Host "Update all packages? [y/N] "
 if ($answer -ieq "y") {
